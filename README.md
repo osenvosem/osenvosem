@@ -1,6 +1,10 @@
 ## Frontend Tech Lead & Full-Stack Engineer (TypeScript • Node.js)
 
-[![Stats](https://github-stats-extended.vercel.app/api?username=osenvosem)]
+<img src="https://github-stats-extended.vercel.app/api?username=osenvosem" alt="Stats" width="50%" align="left"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=osenvosem&langs_count=8" alt="GitHub Stats" width="40%" align="right"/>
+
+
+
 
 <!--
 **osenvosem/osenvosem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
