@@ -1,7 +1,7 @@
 ## Frontend Tech Lead, Full-Stack Engineer, AI Engineer (TypeScript • React • Node.js)
 
-<img src="https://github-stats-extended.vercel.app/api?username=osenvosem" alt="Stats" width="50%" align="left"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=osenvosem&langs_count=8" alt="GitHub Stats" width="40%" align="right"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osenvosem&theme=dark_github" alt="Stats" width="50%" align="left"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=osenvosem&langs_count=8&theme=dark_github" alt="GitHub Stats" width="40%" align="right"/>
 
 
 
